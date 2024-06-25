@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gcasado0
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning python and math
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 Reach me at casado.gustavo@gmail.com
+Hi, I'm Gustavo Casado
+- 👀 I'm passionate about artificial intelligence.
+- 🌱 I'm currently studying for a technical degree in artificial intelligence at the National University of Rosario (Argentina).
+- 💞️ I'm eager to collaborate on data science projects.
+- 📫 You can reach me at casado.gustavo@gmail.com.
 
 <!---
 gcasado0/gcasado0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
